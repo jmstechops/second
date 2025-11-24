@@ -1,2 +1,1 @@
 this is test2 file
-this is today line
